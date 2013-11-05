@@ -24,17 +24,20 @@ Note: Path to the css and javascript varies.
 <script type="text/javascript" src="js/ngBlockui.js"></script>
 ```
 
-Add a <div ng-class="{blockui:blockUI==true}"> to the body of your index.html. All the webpage code must come under this <div> as shown below
+Add a
+```
+<div ng-class="{blockui:blockUI==true}">
+```
+to the body of your index.html. All the webpage code must come under this div as shown below
 ```
 <body>
 	<div ng-class="{blockui:blockUI==true}">
 		//your code
 	</div>
 </body>
-
 ```
 
-(or)
+(or if you are using route services)
 
 ```
 <div ng-class="{blockui:blockUI==true}">
@@ -42,7 +45,7 @@ Add a <div ng-class="{blockui:blockUI==true}"> to the body of your index.html. A
 </div>
 ```
 
-Then it will work fine!
+Yep!.. That's it. You're done with blocking the UI !
 
 **LICENSE**
 -----------
