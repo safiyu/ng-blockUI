@@ -1,7 +1,7 @@
 ng-blockUI
 ==========
 
-An angular version of blockUI. This work is inspired by [Jim Lavin's angularjs-spinner](https://github.com/lavinjj/angularjs-spinner)
+An angular version of blockUI. This work is inspired by [Jim Lavin's angularjs-spinner](https://github.com/lavinjj/angularjs-spinner). Search for ng-blockUI to install via bower registry.
 
 ***
 
