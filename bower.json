@@ -1,0 +1,29 @@
+{
+  "name": "ng-blockUI",
+  "version": "v1.0",
+  "homepage": "https://github.com/safiyu/ng-blockUI",
+  "authors": [
+    "Safiyu <dheensafiyu@gmail.com>"
+  ],
+  "description": "an angular version of blockUI",
+  "main": "ngBlockui.js",
+  "keywords": [
+    "ngBlockui",
+    "blockUI",
+    "BlockUI",
+    "Blockui",
+    "blockui",
+    "angular",
+    "blockui",
+    "angular-blockui",
+    "ngBlockUI"
+  ],
+  "license": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
