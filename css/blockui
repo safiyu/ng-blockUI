@@ -1,0 +1,6 @@
+.blockui{
+    background-color:white !important;
+    opacity: .7 !important;
+    pointer-events: none !important;
+    cursor: default !important;
+}
