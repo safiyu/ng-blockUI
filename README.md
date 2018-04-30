@@ -1,11 +1,11 @@
 ng-blockUI
 ==========
 
-An angular version of blockUI. This work is inspired by Jim Lavin's angularjs-spinner. Search for ng-blockUI to install via bower registry.
+A simple lightweight angular version of blockUI. Search for ng-blockUI to install via bower registry.
 
 ***
 
-There is no necessity of triggering any services or broadcasting messages manually to block the UI. The module takes care of it. The module makes use of response interceptor to block your UI as your http requests are made and completed.
+There is no necessity of triggering any services or broadcasting messages manually to block the UI. The module takes care of it. This library makes use of response interceptor to block the UI as your http requests are made and completed.
 
 ## Installation
 
@@ -45,14 +45,14 @@ to the body of your index.html. All the webpage code must come under this div as
 </div>
 ```
 
-Yep!.. That's it. You're done with blocking the UI !
+Yep!.. That's it. The UI is now blocked during requests !
 
 **LICENSE**
 -----------
 
 The MIT License
 
-Copyright (c) 2012-2013 Coding Smackdown TV, http://codingsmackdown.tv
+Copyright (c) 2016-2018 https://safiyu.work 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

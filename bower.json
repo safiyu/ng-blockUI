@@ -1,11 +1,11 @@
 {
   "name": "ng-blockUI",
-  "version": "v1.0",
+  "version": "v2.0",
   "homepage": "https://github.com/safiyu/ng-blockUI",
   "authors": [
     "Safiyu <dheensafiyu@gmail.com>"
   ],
-  "description": "an angular version of blockUI",
+  "description": "An angular version of blockUI",
   "main": "ngBlockui.js",
   "keywords": [
     "ngBlockui",
@@ -13,13 +13,13 @@
     "BlockUI",
     "Blockui",
     "blockui",
-    "angular",
+    "angular block ui",
     "blockui",
     "angular-blockui",
     "ngBlockUI",
     "ng-blockUI"
   ],
-  "license": "none",
+  "license": "MIT",
   "ignore": [
   ],
   "dependencies": {
